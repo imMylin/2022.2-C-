@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678313743 source:c:\users\marllon\documents\2022.2 lp1\lista 2\invoice1\main.cpp
+	<iostream>
+	"Invoice.h"
+
+1678313743 c:\users\marllon\documents\2022.2 lp1\lista 2\invoice1\include\invoice.h
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678364558 source:c:\users\marllon\documents\2022.2 lp1\lista 2\pessoa2\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1678364248 source:c:\users\marllon\documents\2022.2 lp1\lista 2\pessoa2\src\pessoa.cpp
+	"Pessoa.h"
+
+1678363031 c:\users\marllon\documents\2022.2 lp1\lista 2\pessoa2\include\pessoa.h
+	<string>
+

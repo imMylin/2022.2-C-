@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678360932 source:c:\users\marllon\documents\2022.2 lp1\lista 2\funcionario2\main.cpp
+	<iostream>
+	"Funcionario.h"
+	<string>
+
+1678361032 source:c:\users\marllon\documents\2022.2 lp1\lista 2\funcionario2\src\funcionario.cpp
+	"Funcionario.h"
+
+1678359039 c:\users\marllon\documents\2022.2 lp1\lista 2\funcionario2\include\funcionario.h
+	<string>
+

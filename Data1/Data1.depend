@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678313505 source:c:\users\marllon\documents\2022.2 lp1\lista 2\data1\main.cpp
+	<iostream>
+	<Data.h>
+
+1678313566 c:\users\marllon\documents\2022.2 lp1\lista 2\data1\include\data.h
+
+1678313504 source:c:\users\marllon\documents\2022.2 lp1\lista 2\data1\src\data.cpp
+	"Data.h"
+
